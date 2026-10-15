@@ -1,0 +1,9 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Project Milestones
+    chapters:
+      - file: docs/m1_crawling
+        title: "Milestone 1: Data Crawling"
+      - file: docs/m2_parsing
+        title: "Milestone 2: Hierarchical Parsing & Standardization"

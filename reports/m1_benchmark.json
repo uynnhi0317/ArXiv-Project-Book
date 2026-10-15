@@ -1,0 +1,10 @@
+{
+  "discovery_time_sec": 12.5,
+  "crawl_success_rate": 0.985,
+  "avg_size_before_kb": 1450.2,
+  "avg_size_after_kb": 120.8,
+  "avg_refs_per_paper": 32.4,
+  "ref_crawl_success_rate": 0.94,
+  "peak_ram_mb": 245.6,
+  "max_disk_mb": 512.0
+}

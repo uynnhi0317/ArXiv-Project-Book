@@ -1,0 +1,22 @@
+title: "arXiv Project Report — Introduction to Data Science"
+author: "Tôn Thất Kiên, Phạm Gia Bảo, Trần Ngô Uyên Nhi, Đinh Công Khang, Trần Tuấn Kiệt"
+logo: images/HCMUS-Logo.png
+
+# Bắt buộc chạy lại code trong .ipynb khi build book để sinh bảng và biểu đồ
+execute:
+  execute_notebooks: force
+  timeout: 120
+  allow_errors: false
+
+# Cấu hình định dạng xuất bản
+html:
+  use_issues_button: true
+  use_repository_button: true
+
+repository:
+  url: https://github.com/uynnhi0317/ArXiv-Project-Book
+  branch: main
+
+sphinx:
+  config:
+    mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

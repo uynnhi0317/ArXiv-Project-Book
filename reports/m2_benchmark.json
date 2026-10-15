@@ -1,0 +1,7 @@
+{
+  "parse_success_rate": 0.96,
+  "elements_before_dedup": 150000,
+  "elements_after_dedup": 95000,
+  "bibtex_before_dedup": 45000,
+  "bibtex_after_dedup": 28000
+}
